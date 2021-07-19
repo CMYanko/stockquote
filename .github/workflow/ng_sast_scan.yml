@@ -1,6 +1,6 @@
 # This workflow integrates ShiftLeft NG SAST with GitHub
 # Visit https://docs.shiftleft.io for help
-name: ShiftLeft
+name: ShiftLeft NG SAST
 
 # Controls when the action will run. 
 on:
